@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xaleele
-- 👀 I’m interested in Python, Django, Tableau, AWS, SQL
-- 🌱 I’m currently learning Python, Django, and AWS
-- 💞️ I’m looking to collaborate on Python projects, Django projects, 
+- 👀 I’m interested in Python, Django, Tableau, GCP, AWS, SQL
+- 🌱 I’m currently learning Python, Django, Flask, and GCP
+- 💞️ I’m looking to collaborate on Python projects, Flask projects, 
 - 📫 You can reach me via this GitHub profile
 
 <!---
